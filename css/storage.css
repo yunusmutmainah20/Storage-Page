@@ -59,6 +59,10 @@
     text-align: left;
     padding-top: 3%;
 }
+.stotage details span{
+    font-size:16px;
+    font-weight:bold;
+}
 
 .storage-list {
     list-style-type: none;
