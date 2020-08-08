@@ -12,7 +12,10 @@
     max-width: 100%;
     width: 56px;
     padding-bottom: 1%;
-}    
+} 
+#storage a {
+    color:white;
+}
 
 
 .first-section h6 {
